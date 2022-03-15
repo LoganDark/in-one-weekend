@@ -8,6 +8,10 @@ with tweaks as late as May 2021, as of the initial commit.
 
 *3111 spp with no denoising*
 
+![12103 spp](./screenshots/12103_spp.png)
+
+*12103 spp with no denoising*
+
 Also my very first path tracer, so there are some weird quirks, but it's still
 interactive, multithreaded, features (bad) image denoising thanks to OIDN, and
 can make some nice stuff if you let it sit for a while.
