@@ -4,6 +4,10 @@ Super basic path tracer written using the [Ray Tracing in One Weekend](
 https://raytracing.github.io/) guide. Initially written around October 2020,
 with tweaks as late as May 2021, as of the initial commit.
 
+![3111 spp](./screenshots/3111_spp.png)
+
+*3111 spp with no denoising*
+
 Also my very first path tracer, so there are some weird quirks, but it's still
 interactive, multithreaded, features (bad) image denoising thanks to OIDN, and
 can make some nice stuff if you let it sit for a while.
